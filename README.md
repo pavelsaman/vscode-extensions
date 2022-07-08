@@ -24,3 +24,4 @@
 - YAML
 - Add Only
 - Monokai Pro
+- REST Client

@@ -1,0 +1,24 @@
+# VS Code Extensions
+
+- EditorConfig for VS Code
+- ENV
+- Git Blame
+- Git Graph
+- GitHub Pull Requests and Issues
+- GitLens — Git supercharged
+- Jest
+- Live Server
+- Local Lua Debugger
+- Markdown Checkbox
+- Markdown Checkboxes
+- Markdown Snippets
+- Mocha Test Explorer
+- Prettier - Code formatter
+- Python
+- React - Javascript snippets
+- Scala syntax (official)
+- Test Explorer UI
+- TODO Highlight
+- Todo Tree
+- Vetur
+- YAML

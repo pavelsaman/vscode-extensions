@@ -25,3 +25,4 @@
 - Add Only
 - Monokai Pro
 - REST Client
+- Thunder Client

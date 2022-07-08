@@ -22,3 +22,5 @@
 - Todo Tree
 - Vetur
 - YAML
+- Add Only
+- Monokai Pro

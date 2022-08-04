@@ -26,3 +26,5 @@
 - Monokai Pro
 - REST Client
 - Thunder Client
+- Open in GitHub, GitLab, Gitea, Bitbucket, VisualStudio.com !
+- Open in NPM

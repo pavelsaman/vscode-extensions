@@ -28,3 +28,5 @@
 - Thunder Client
 - Open in GitHub, GitLab, Gitea, Bitbucket, VisualStudio.com !
 - Open in NPM
+- vscode-pdf
+- CODEOWNERS

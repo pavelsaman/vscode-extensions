@@ -30,3 +30,4 @@
 - Open in NPM
 - vscode-pdf
 - CODEOWNERS
+- Sort JSON objects

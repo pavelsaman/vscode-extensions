@@ -32,3 +32,4 @@
 - CODEOWNERS
 - Sort JSON objects
 - SQL Formatter
+- ShellCheck

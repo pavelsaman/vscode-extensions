@@ -31,3 +31,4 @@
 - vscode-pdf
 - CODEOWNERS
 - Sort JSON objects
+- SQL Formatter

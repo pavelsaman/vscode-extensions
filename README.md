@@ -33,3 +33,5 @@
 - Sort JSON objects
 - SQL Formatter
 - ShellCheck
+- Even Better TOML
+

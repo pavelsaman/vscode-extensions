@@ -34,4 +34,5 @@
 - SQL Formatter
 - ShellCheck
 - Even Better TOML
-
+- Base64
+- URI Encode/Decode

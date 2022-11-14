@@ -37,3 +37,4 @@
 - Base64
 - URI Encode/Decode
 - Make support and task provider
+- XML

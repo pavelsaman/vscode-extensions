@@ -38,3 +38,4 @@
 - URI Encode/Decode
 - Make support and task provider
 - XML
+- GitHub Actions

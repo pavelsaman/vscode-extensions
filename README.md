@@ -39,3 +39,4 @@
 - Make support and task provider
 - XML
 - GitHub Actions
+- Eslint

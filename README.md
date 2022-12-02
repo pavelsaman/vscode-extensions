@@ -40,3 +40,4 @@
 - XML
 - GitHub Actions
 - Eslint
+- Peacock

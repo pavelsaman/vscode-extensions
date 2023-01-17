@@ -43,3 +43,4 @@
 - Peacock
 - npm Dependency Links
 - Rome
+- JWT Debugger

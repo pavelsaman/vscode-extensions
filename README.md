@@ -42,5 +42,6 @@
 - Eslint
 - Peacock
 - npm Dependency Links
-- Rome
+- Biome
 - JWT Debugger
+- Git History

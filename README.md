@@ -45,3 +45,4 @@
 - Biome
 - JWT Debugger
 - Git History
+- stxr.iconfont-preview

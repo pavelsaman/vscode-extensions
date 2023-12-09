@@ -46,3 +46,4 @@
 - JWT Debugger
 - Git History
 - stxr.iconfont-preview
+- ecmel.vscode-html-css

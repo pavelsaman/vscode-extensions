@@ -47,3 +47,4 @@
 - Git History
 - stxr.iconfont-preview
 - ecmel.vscode-html-css
+- ms-vscode.live-server
